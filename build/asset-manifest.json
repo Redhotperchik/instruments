@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.42276e3c.css",
+    "main.js": "/static/js/main.a25a981d.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/Boney.mp4": "/static/media/Boney.4973cdad379c619046a6.mp4",
+    "static/media/Aikq.jpg": "/static/media/Aikq.73fa6215142da7cb4cf0.jpg",
+    "static/media/me.jpg": "/static/media/me.703a3ac60b4f48bdc897.jpg",
+    "static/media/drums.jpg": "/static/media/drums.0526b187d1e3bc2a47bf.jpg",
+    "static/media/color_guitar.jpg": "/static/media/color_guitar.912bb956553abe19af3a.jpg",
+    "static/media/guitar.jpg": "/static/media/guitar.e8484a22d9787e65ab7e.jpg",
+    "static/media/sisters.jpg": "/static/media/sisters.6af3ab5edbaa6fddc885.jpg",
+    "index.html": "/index.html",
+    "main.42276e3c.css.map": "/static/css/main.42276e3c.css.map",
+    "main.a25a981d.js.map": "/static/js/main.a25a981d.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42276e3c.css",
+    "static/js/main.a25a981d.js"
+  ]
+}
